@@ -1,0 +1,6 @@
+sandbox/
+build/
+data/*
+benchmark/
+CMakePresets.json
+CMakeLists.txt
