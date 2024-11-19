@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)  # Version minimale requise de CMake
-project(GeneralizedAssignmentPB)       # Nom du projet
+project(GAPGenetic)       # Nom du projet
 
 # Spécifie les normes C++ à utiliser (optionnel)
 set(CMAKE_CXX_STANDARD 17)
